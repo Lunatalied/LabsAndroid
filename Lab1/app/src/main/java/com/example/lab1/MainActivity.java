@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
         goLink.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {D:
+            public void onClick(View view) {
                     Uri uriUrl = Uri.parse(textForLink.getText().toString());
                     Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl);
                     launchBrowser.addCategory(Intent.CATEGORY_BROWSABLE);

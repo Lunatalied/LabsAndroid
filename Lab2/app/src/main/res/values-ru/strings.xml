@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Лаба №2</string>
+    <string name="hello">Привет, мир!</string>
+    <string name="inputForName">Введите имя</string>
+    <string name="buttonCheck">Проверить ориентацию</string>
+    <string name="portrait">Портретная ориентация</string>
+    <string name="landscape">Альбомная ориентация</string>
+</resources>
